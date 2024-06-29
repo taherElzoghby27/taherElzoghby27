@@ -1,7 +1,7 @@
-#Taher Elzoghby
+# Taher Elzoghby
 I'm Taher from Egypt. I'm currently working as Flutter Developer.
 
-##Skills
+## Skills
 Java , Dart , Oop , Data Structure , Solid Principles , Flutter , Firebase , SQLite , Hive , MVC , MVVM , Clean Architecture , Bloc , Cubit , Provider , Getx , Api , Google Maps , Localization, Postman , Payment , Agile .
 
 - 🔭 I’m currently working on this page. 
