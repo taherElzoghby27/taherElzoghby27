@@ -48,7 +48,6 @@ Passionate software engineer specializing in backend development with Java and S
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=taherElzoghby27&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
@@ -57,15 +56,4 @@ Passionate software engineer specializing in backend development with Java and S
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
