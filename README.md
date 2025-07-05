@@ -15,6 +15,18 @@
 Passionate software engineer specializing in backend development with Java and Spring Boot. Experienced in building scalable RESTful APIs, integrating Oracle databases, and optimizing backend performance. Skilled in writing clean, maintainable code and familiar with mobile development using Flutter and some Angular exposure. Always eager to learn, collaborate, and contribute to robust backend solutions.  
   
 
+<br/>  
+
+
+<table><tr><td valign="top" width="50%">
+
+
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
 
 <br/>  
 
