@@ -52,7 +52,7 @@ Check out my profile here 👉 [LeetCode](https://leetcode.com/u/Taher__Elzoghby
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="70%">
+<table><tr><td valign="top" width="50%">
 
 
 </td><td valign="top" width="50%">
