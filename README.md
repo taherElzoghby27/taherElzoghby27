@@ -5,19 +5,17 @@ I enjoy tackling challenges, optimizing solutions, and continuously improving my
 
 ---
 
-## 🚀 Problem Solving  
-
-I enjoy solving challenging problems and sharpening my skills through platforms like Leetcode
-[![LeetCode Profile](https://leetcode.com/u/Taher__Elzoghby/)
-Check out my solutions and progress as I continue to grow as a problem solver.
----
-
 ## 🛠️ Tech Stack  
 
 - 💻 Languages: Python, Java, C++, JavaScript  
 - ⚡ Frameworks & Tools: React, Node.js, Git, Docker  
 - 📊 Interests: Algorithms, Data Structures, System Design  
 
+---
+## 🚀 Problem Solving  
+![LeetCode Profile](https://leetcode.com/u/Taher__Elzoghby/)
+- I enjoy solving challenging problems and sharpening my skills through platforms like Leetcode.
+- Check out my solutions and progress as I continue to grow as a problem solver.
 ---
 
 ## 🌟 Highlights  
