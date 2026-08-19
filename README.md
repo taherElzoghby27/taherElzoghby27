@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Software Engineer | Java</h2>
+<h2 align="center">Software Engineer</h2>
 
 ###
 
